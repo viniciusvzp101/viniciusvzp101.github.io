@@ -1,0 +1,33 @@
+{
+ "name": "Obra PDF – Anotador de Projetos",
+ "short_name": "Obra PDF",
+ "id": "./",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "any",
+ "background_color": "#10171e",
+ "theme_color": "#10171e",
+ "lang": "pt-BR",
+ "description": "Abre, anota e organiza projetos de engenharia em PDF, imagens, Word e PowerPoint, sem internet.",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icon-maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
